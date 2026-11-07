@@ -1,0 +1,280 @@
+  0	2AC88B	Accept
+  1	2AC892	Don't accept
+  2	2AE3EF	I could use some help.
+  3	2AE406	No problem.
+  4	2B00C9	I'd be glad to.
+  5	2B00D9	Sorry, I'm busy.
+  6	2B1961	Sure.
+  7	2B2C76	Just my name
+  8	2B2C89	Darling
+  9	2B39FB	Yes, I do.
+ 10	2B3A06	No, I don't.
+ 11	2B4156	I'm too busy now!
+ 12	2B5308	Sure, I'll play.
+ 13	2B5319	Sorry, I've got work.
+ 14	2B62C1	I agree with Popuri.
+ 15	2B62D6	I agree with Rick.
+ 16	2B62E9	Poor Lillia.
+ 17	2B788D	Of course!
+ 18	2B83BF	Sounds great!
+ 19	2B83CD	I really couldn't.
+ 20	2B8C47	I like cleaning.
+ 21	2B8C58	I hate cleaning.
+ 22	2B99B4	Take her to the Clinic.
+ 23	2BA5FB	I like her.
+ 24	2BA607	Only as a friend.
+ 25	2BBCFD	Can I help?
+ 26	2BBD09	Be careful.
+ 27	2BC699	Sorry, I don't want to.
+ 28	2BD11F	Sometimes.
+ 29	2BD12A	Never.
+ 30	2BE2E3	I can't think of anything.
+ 31	2BE2FE	How about a farm story?
+ 32	2BE316	How about Basil's job?
+ 33	2C00D4	Sure I do.
+ 34	2C00DF	Not really.
+ 35	2C0EFA	You'll make a great nurse.
+ 36	2C1BAD	Sorry, no.
+ 37	2C1BB8	Sure, I'll do it.
+ 38	2C2710	You've spoiled him.
+ 39	2C2724	You're doing a great job!
+ 40	2C5B0C	I'm ready.
+ 41	2C5B17	Wait one second.
+ 42	2CA0B4	Remove a cursed tool.
+ 43	2CA0CA	I want to confess.
+ 44	2CA0DD	Just saying 'hi'.
+ 45	2CA22E	I hardly get any sleep.
+ 46	2CA246	I'm overworking the HS.
+ 47	2CA25E	I want to marry the HG.
+ 48	2CA6F9	I don't care for animals.
+ 49	2CA713	Worked until I collapsed.
+ 50	2CA72D	Townspeople don't like me.
+ 51	2CAC8B	I was cruel to my animals.
+ 52	2CACA6	I slept in late.
+ 53	2CACB7	I littered in the road.
+ 54	2D24B8	Go to bed for the day?
+ 55	2D2A02	Sunday
+ 56	2D2A10	Tuesday
+ 57	2D2A18	Wednesday
+ 58	2D2A22	Thursday
+ 59	2D2A2B	Friday
+ 60	2D2A32	Saturday
+ 61	2D62A9	You can make a call for 10G.
+ 62	2D62C6	Make a call.
+ 63	2D62D3	Don't make a call.
+ 64	2D636B	Don't buy
+ 65	2D8CC4	Prev. page
+ 66	2D8CD9	Next page
+ 67	2D8CE3	Lumin
+ 68	2D8CE9	Sebastian
+ 69	2D8CF3	Wally
+ 70	2D8CF9	Chris
+ 71	2D8D04	Grant
+ 72	2D8D13	Galen
+ 73	2D8D1E	Daryl
+ 74	2D8D24	Gustafa
+ 75	2D8D31	Kassey
+ 76	2D8D38	Patrick
+ 77	2D8D40	Murray
+ 78	2D8D50	Nancy
+ 79	2D8D5B	Garcia
+ 80	2D8D62	Muffy
+ 81	2D8D6F	Flora
+ 82	2D8D75	Vesta
+ 83	2D8D7B	Marlin
+ 84	2D8D82	Celia
+ 85	2D8D88	Hardy
+ 86	2D8D92	Mooky
+ 87	2D8D98	David
+ 88	2D8DA7	Player
+ 89	2D910C	Blacksmith
+ 90	2D9123	Woodcutter
+ 91	2D912E	Clinic
+ 92	2D9135	Orchard
+ 93	2D9147	Beach House
+ 94	2D916B	Merchant
+ 95	2D95EC	Get Kitchen
+ 96	2D95F8	Recipe Book 1
+ 97	2D960B	Recipe Book1
+ 98	2D9618	Recipe Book2
+ 99	2D9625	Recipe Book3
+100	2D9632	Recipe Book 2
+101	2D9640	Recipe Book 3
+102	2D964E	Recipe Book 4
+103	2DA8ED	Take a bath?
+104	2DADE0	Turn in for the day?
+105	2DCA6C	Book List
+106	2DCA76	Letter List
+107	2DD049	View recipies
+108	2E2592	Throw away these flowers?
+109	2ED73D	Begin race.
+110	2ED749	Place a bet.
+111	2ED756	Exchange.
+112	2ED760	Nothing.
+113	2ED8B1	Exchange medal for prize.
+114	2ED905	Let's start.
+115	2ED912	Not yet.
+116	2EDE26	Wait a minute
+117	2EDEF0	Start.
+118	2EDEF7	Hold on a second.
+119	2FE9AA	Baskets are 5,000G.
+120	300B81	The Blue Feather is 1,000G.
+121	312F94	Rucksacks are 3,000G.
+122	313027	Large Rucksacks are 5,000G.
+123	31B433	Examination is 10G.
+124	31B447	Please examine me.
+125	31B45A	No thanks.
+126	324960	Mayonnaise Maker
+127	324971	Cheese Maker
+128	32497E	Yarn Maker
+129	329197	Play with frisbee?
+130	3291AF	Don't play
+131	337DA6	Our anniversary
+132	337DB6	My birthday
+133	33B62D	My birthday.
+134	33B63A	Your birthday.
+135	33B649	{N:*}'s birthday.
+136	33C5F4	It's my birthday.
+137	33C606	It's your birthday.
+138	33E131	{N:*}'s birthday
+139	34B40C	He'll be fine!
+140	34B41B	Let's go to the Clinic.
+141	352AA8	I don't think so.
+142	355234	Sure!
+143	35523A	I'm too busy.
+144	355DD1	Of course.
+145	355DDC	Sorry, I can't.
+146	357683	Explain their error.
+147	357698	Apologize.
+148	358874	Learn.
+149	35887B	Sorry, I'm too busy.
+150	35A55B	That's nice of you.
+151	35AE22	Useful tips
+152	35BAE1	Sorry...
+153	35D442	Not now.
+154	35D561	Tell her how you feel.
+155	35D578	Think for yourself.
+156	360591	I'll play.
+157	36059C	I'm too busy!
+158	36461F	You've got to be kidding.
+159	366F04	You can do it!
+160	366F13	Put her in a big hospital.
+161	36AD56	Stop the fight.
+162	36AD66	Don't intervene.
+163	37007F	Which will it be?
+164	370091	SUGDW
+165	37009D	AEPFE
+166	3703E7	Buy Vase.
+167	3703F1	Don't Buy.
+168	3736B8	Healthy animals.
+169	3736C9	Befriend townspeople.
+170	3736DF	Shipping for a high price.
+171	3788E4	My anniversary
+172	37CA2A	I've got work to do.
+173	38022B	I still have work to do.
+174	387079	Alright!
+175	387082	I've got more work to do.
+176	38C550	Go down?
+177	38C674	Go back to the surface?
+178	39FD83	Sounds like fun.
+179	39FD94	Sorry, I have other plans.
+180	3A76A7	Tell about part-time job.
+181	3A76C1	Don't tell.
+182	3AE998	Can you help me?
+183	3AE9A9	Let's play.
+184	3AE9B5	Nothing in particular.
+185	3AEA85	1 day
+186	3AEA8B	3 days
+187	3AEA92	1 week
+188	3AF067	Let's do more tomorrow!
+189	3AF07F	Your job is done for now.
+190	3C42BD	Don't say anything.
+191	3CB629	I'd love to!
+192	3D7120	I can't wait!
+193	3DC328	Tell about job.
+194	3DC338	Don't tell about job.
+195	3E32B1	Sounds like fun!
+196	3E32C2	Sorry, I've got plans.
+197	3FF78E	Listen.
+198	3FF796	Don't listen.
+199	40FDDC	Pick one.
+200	40FDE6	Love up
+201	40FDEE	Affection up
+202	40FDFB	Surprise 1
+203	40FE06	Surprise 2
+204	40FE3C	Popuri's love{N:%}
+205	40FE5E	Return
+206	40FE65	Return more
+207	40FE71	Ann's love{N:%}
+208	40FE7E	Elli's love{N:%}
+209	40FE9C	Mary's love{N:%}
+210	40FEAA	Karen's love{N:%}
+211	40FEB9	Goddess's love{N:%}
+212	40FEFA	Lillia's affection{N:%}
+213	40FF1C	Affection-10
+214	40FF29	Rick's affection{N:%}
+215	40FF3C	Popuri's affection{N:%}
+216	40FF51	Kai's affection{N:%}
+217	40FF7F	Doctor's affection{N:%}
+218	40FF94	Elli's affection{N:%}
+219	40FFA7	Stu's affection{N:%}
+220	40FFB9	Ellen's affection{N:%}
+221	40FFE3	Karen's affection{N:%}
+222	40FFF7	Jeff's affection{N:%}
+223	41000A	Sasha's affection{N:%}
+224	410041	Barley's affection{N:%}
+225	410056	May's affection{N:%}
+226	410068	Saibara's affection{N:%}
+227	41007E	Gray's affection{N:%}
+228	4100B5	Duke's affection{N:%}
+229	4100C8	Manna's affection{N:%}
+230	4100DC	Thomas's affection{N:%}
+231	4100F1	Harris's affection{N:%}
+232	410123	Basil's affection{N:%}
+233	410137	Anna's affection{N:%}
+234	41014A	Mary's affection{N:%}
+235	41015D	Carter's affection{N:%}
+236	410188	Doug's affection{N:%}
+237	41019B	Ann's affection{N:%}
+238	4101AD	Cliff's affection{N:%}
+239	4101E2	Won's affection{N:%}
+240	4101F4	Gourmet's affection{N:%}
+241	41020A	Gotz's affection{N:%}
+242	41021D	Zack's affection{N:%}
+243	41024C	Goddess's affection{N:%}
+244	410262	Staid's affection{N:%}
+245	410276	Nappy's affection{N:%}
+246	41028A	Bold's affection{N:%}
+247	4102BE	Chef's affection{N:%}
+248	4102D1	Aqua's affection{N:%}
+249	4102E4	Hoggy's affection{N:%}
+250	4102F8	Timid's affection{N:%}
+251	410320	Child
+252	410326	Van's affection{N:%}
+253	410338	Ruby's affection{N:%}
+254	41034B	Child's affection{N:%}
+255	451A12	Paper
+256	451A18	Scissors
+257	4534B8	Compared to {N:&}, it's
+258	4534CD	Larger
+259	4534D4	Smaller
+260	4C94CC	Which animal?
+261	4C94DA	Chickens
+262	4C94EE	Cancel
+263	4CFCC1	I'll compete.
+264	4D4651	I have.
+265	4D4659	I have not.
+266	4D776A	Compete.
+267	4D7773	Don't compete.
+268	4DA07F	Yes, let's start.
+269	4DC666	I will.
+270	4DC66E	I won't.
+271	4DDED7	Please wait.
+272	4E156E	Invite to the fireworks?
+273	4E1587	Invite.
+274	4E158F	Don't invite.
+275	4E3826	I'd love to.
+276	4E4897	Wait a minute.
+277	4E77B5	I did.
+278	4E77BC	I didn't.
+279	4ED649	Not this year.

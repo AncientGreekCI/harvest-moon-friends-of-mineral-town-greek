@@ -1,0 +1,61 @@
+# ROM & Save files (copyrighted binaries)
+*.gba
+*.sav
+*.srm
+
+# Temporary root test captures & scratch scripts
+*.png
+!gfx/**/*.png
+!gfx/*.png
+test.lua
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+
+# System & Agent files
+.DS_Store
+Thumbs.db
+.gemini/
+.system_generated/
+.idea/
+.vscode/
+
+# Local work folders & scratch directories
+sprites_test/
+sprites/
+screenshots/
+verification_showcase/
+hm_greek_handover_package/
+
+# Scratch scripts & temporary dumps at root
+/batch*
+/dump_*
+/generate_*
+/inspect_*
+/disas_*
+/find_*
+/trace_*
+/check_*
+/draw_*
+/parse_*
+/scan_*
+/update_handover_*
+/capture_*
+/render_*
+/fast_*
+/combine_*
+/verify_*
+/test_*
+/ingest_*
+/*.txt
+/Handjet.glyphs
+/Handjet.ttf
+/HANDOVER.md
+/apply_greek_ui_and_speakers.py
+/greek_script.json
+/hm_fomt_greek.ips
+/export_crop_sprites.py
